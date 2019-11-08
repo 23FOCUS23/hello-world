@@ -24,3 +24,10 @@ Bravo! Now, you’re on the code view for your readme-edits branch, which is a c
 3- In the editor, write a bit about yourself.
 4- Write a commit message that describes your changes.
 5- Click Commit changes button.
+
+## Step 4. Open a Pull Request
+Now that you have changes in a branch off of master, you can open a pull request. Pull Requests are the heart of collaboration on GitHub. When you open a pull request, you’re proposing your changes and requesting that someone review and pull in your contribution and merge them into their branch. Pull requests show diffs, or differences, of the content from both branches. The changes, additions, and subtractions are shown in green and red. As soon as you make a commit, you can open a pull request and start a discussion, even before the code is finished.
+
+## Open a Pull Request for changes to the README
+Click the  Pull Request tab, then from the Pull Request page, click the green New pull request button.
+
