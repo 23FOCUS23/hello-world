@@ -15,3 +15,12 @@ Here at GitHub, our developers, writers, and designers use branches for keeping 
 2- Type a branch name, readme-edits, into the new branch text box.
 3- Select the blue Create branch box or hit “Enter” on your keyboard.
 
+## Step 3. Make and commit changes
+Bravo! Now, you’re on the code view for your readme-edits branch, which is a copy of master. Let’s make some edits.
+
+## Make and commit changes
+1- Click the README.md file.
+2- Click the  pencil icon in the upper right corner of the file view to edit.
+3- In the editor, write a bit about yourself.
+4- Write a commit message that describes your changes.
+5- Click Commit changes button.
