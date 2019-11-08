@@ -14,8 +14,3 @@ Here at GitHub, our developers, writers, and designers use branches for keeping 
 1- Click the drop down at the top of the file list that says branch: master.
 2- Type a branch name, readme-edits, into the new branch text box.
 3- Select the blue Create branch box or hit “Enter” on your keyboard.
-
-In this final step, it’s time to bring your changes together – merging your readme-edits branch into the master branch.
-1- Click the green Merge pull request button to merge the changes into master.
-2- Click Confirm merge.
-3- Go ahead and delete the branch, since its changes have been incorporated, with the Delete branch button in the purple box.
